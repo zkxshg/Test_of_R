@@ -1,0 +1,145 @@
+#读入数据
+library(tm)
+library(wordcloud)
+library(RColorBrewer)
+library(SnowballC)
+
+getwd()
+setwd("~/data")
+#建立语料库
+name <- file.path("~/data")
+length(dir(name))
+dir(name)
+docs <- Corpus(DirSource(name))
+docs
+
+#文本转换
+docs <- tm_map(docs, tolower)
+docs <- tm_map(docs, removeNumbers)
+docs <- tm_map(docs, removePunctuation)
+docs <- tm_map(docs, removeWords, stopwords("english"))
+docs <- tm_map(docs, stripWhitespace)
+docs <- tm_map(docs, stemDocument, language = "porter")
+
+docs <- tm_map(docs, removeWords, c("applause", "can", "cant", "will", "that", "weve", "dont","wont", "youll", "youre","thats")) 
+
+#检查维度
+dtm <- DocumentTermMatrix(docs)
+dim(dtm)
+dtm = removeSparseTerms(dtm, 0.75)
+dim(dtm)
+
+#检查文档-词矩阵
+rownames(dtm) <- c("2010","2011","2012","2013","2014","2015","2016")
+inspect(dtm[1:7, 1:5])
+
+#矩阵降序重新排列
+freq = colSums(as.matrix(dtm))
+ord = order(-freq) #order the frequency
+freq[head(ord)]
+freq[tail(ord)]
+
+#处理未处理的频繁词
+docs <- tm_map(docs, removeWords, c("span", "applaus", "div", "meta", "american", "year"))
+dtm <- DocumentTermMatrix(docs)
+dtm = removeSparseTerms(dtm, 0.75)
+dim(dtm)
+rownames(dtm) <- c("2010","2011","2012","2013","2014","2015","2016")
+inspect(dtm[1:7, 1:5])
+freq = colSums(as.matrix(dtm))
+ord = order(-freq) 
+freq[head(ord)]
+
+#绘制词频表
+head(table(freq))
+tail(table(freq))
+findFreqTerms(dtm, 200)
+findAssocs(dtm, "job", corlimit = 0.85)
+
+#可视化词频
+wordcloud(names(freq), freq,min.freq = 70, scale = c(3, .5), colors=brewer.pal(6, "Dark2"))
+wordcloud(names(freq), freq, max.words = 25)
+
+freq <- sort(colSums(as.matrix(dtm)), decreasing = TRUE)
+wf <- data.frame(word = names(freq), freq = freq)
+wf <- wf[1:10, ]
+barplot(wf$freq, names = wf$word, main = "Word Frequency",xlab = "Words", ylab = "Counts", ylim = c(0, 250))
+
+#建立主题模型
+library(topicmodels)
+set.seed(123)
+lda3 <- LDA(dtm, k = 3, method = "Gibbs")
+topics(lda3)
+set.seed(456)
+terms(lda3, 25)
+
+#转换数据
+library(qdap)
+
+speech16 <- paste(readLines("sou2016.txt"), collapse=" ")
+speech16 <- iconv(speech16, "latin1", "ASCII", "")
+
+#数据预处理
+prep16 <- qprep(speech16)
+prep16 <- replace_contraction(prep16)
+prep16 <- rm_stopwords(prep16, Top100Words, separate = F)
+prep16 <- strip(prep16, char.keep = c("?", "."))
+
+#分割文档
+sent16 <- data.frame(speech = prep16)
+sent16 <- sentSplit(sent16, "speech")
+sent16$year <- "2016"
+
+#对2010年演讲重复以上处理
+speech10 <- paste(readLines("sou2010.txt"), collapse=" ")
+speech10 <- iconv(speech10, "latin1", "ASCII", "")
+speech10 <- gsub("(Applause.)", "", speech10)
+prep10 <- qprep(speech10)
+prep10 <- replace_contraction(prep10)
+prep10 <- rm_stopwords(prep10, Top100Words, separate = F)
+prep10 <- strip(prep10, char.keep = c("?", "."))
+sent10 <- data.frame(speech = prep10)
+sent10 <- sentSplit(sent10, "speech")
+sent10$year <- "2010"
+
+#合并并探索数据
+sentences <- data.frame(rbind(sent10, sent16))
+#频率图
+plot(freq_terms(sentences$speech))
+#词频矩阵
+wordMat <- wfm(sentences$speech, sentences$year)
+head(wordMat[order(wordMat[, 1], wordMat[, 2],decreasing = TRUE),])
+#词云
+trans_cloud(sentences$speech, sentences$year, min.freq = 10)
+#综合统计
+ws <- word_stats(sentences$speech, sentences$year, rm.incomplete = T)
+plot(ws, label = T, lab.digits = 2)
+
+#极性分析
+pol <- polarity(text.var = sentences$speech, 
+                grouping.var = sentences$year)
+pol
+plot(pol)
+
+pol.df <- pol$all
+which.min(pol.df$polarity)
+pol.df$text.var[16]
+
+#易读指数
+ari <- automated_readability_index(text.var = sentences$speech,
+                                  grouping.var = sentences$year)
+ari$Readability
+
+#正式度
+form <- formality(sentences$speech, sentences$year)
+form
+form$form.prop.by
+plot(form)
+
+#多样性
+div <- diversity(sentences$speech, sentences$year)
+div
+plot(div)
+
+#分散度
+dispersion_plot(sentences$speech,rm.vars = sentences$year,c("security", "jobs", "economy"),color = "black", bg.color = "white")
