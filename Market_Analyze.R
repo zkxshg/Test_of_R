@@ -17,7 +17,6 @@ rules
 options(digits = 2)
 rules <- sort(rules, by = "lift", decreasing = TRUE)
 inspect(rules[1:5])
-
 rules <- sort(rules, by = "confidence", decreasing = TRUE)inspect(rules[1:5]
 
 #建立关联表观察关联规则
