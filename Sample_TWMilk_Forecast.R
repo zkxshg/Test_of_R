@@ -1,5 +1,5 @@
 # 讀入數據
-Cow_report <- read.csv(file="C:/Users/zkx/Desktop/Datasets/datasource/33 台灣牧場乳量預測/data/Preprocess/R_conclude/report.csv", header=TRUE, sep=",",fileEncoding = "UTF-8-BOM")
+Cow_report <- read.csv(file="report.csv", header=TRUE, sep=",",fileEncoding = "UTF-8-BOM")
 # head(Cow_report)
 
 # ==========================================================
@@ -55,11 +55,11 @@ Train_C <- Cow_report[complete.cases(Cow_report_C$X11),]
 # ==========================================================
 # 從外部讀入數據
 # TestData
-# Cow_Test_B <- read.csv(file="C:/Users/zkx/Desktop/Datasets/datasource/33 台灣牧場乳量預測/data/Preprocess/6 Reg/Test_B.csv", header=TRUE, sep=",")
+# Cow_Test_B <- read.csv(file="Test_B.csv", header=TRUE, sep=",")
 # head(Cow_Test_B)
 
 # TrainData
-# Cow_Train_B <- read.csv(file="C:/Users/zkx/Desktop/Datasets/datasource/33 台灣牧場乳量預測/data/Preprocess/6 Reg/Train_B.csv", header=TRUE, sep=",")
+# Cow_Train_B <- read.csv(file="Train_B.csv", header=TRUE, sep=",")
 # head(Cow_Train_B)
 
 # ==========================================================
@@ -99,5 +99,5 @@ coef(Cow_A.mdl)
 summary(Cow_A.mdl)
 
 # =============================================================
-# Sub <- read.csv(file="C:/Users/zkx/Desktop/Datasets/datasource/33 台灣牧場乳量預測/data/Preprocess/submission.csv", header=TRUE, sep=",",fileEncoding = "UTF-8-BOM")
+# Sub <- read.csv(file="submission.csv", header=TRUE, sep=",",fileEncoding = "UTF-8-BOM")
 # Result <- left_join(Sub, Milk, by='ID')
