@@ -2,7 +2,8 @@
 ts(1:8,start=c(2015,2),frequency=4)
 
 #导入火鸡数据
-library(nutshell)data(turkey.price.ts)
+library(nutshell)
+data(turkey.price.ts)
 
 turkey.price.ts
 
