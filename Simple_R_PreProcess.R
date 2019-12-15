@@ -19,4 +19,8 @@ library(topicmodels)  # 主題模型
 library(qdap)  # 文本量化分析
 
 library(e1071)  # 概率統計數據分析工具包
-library(rpart)  #
+library(rpart)  # 分类/回归/生存树工具包
+library(maptree)  # 决策树可视化工具包
+library(ipred)  # bagging工具包
+library(mboost)  # boosting工具包
+library(randomForest)  # 随机森林工具包
