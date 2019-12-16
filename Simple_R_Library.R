@@ -1,8 +1,6 @@
 # ====================1 常見library==============
 
 library(dplyr)  # 數據處理工具集
-library(fpp2)  # Forecast工具集
-library(nnet)  # 神經網絡工具集
 
 # 關聯規則及可視化
 library(arules) 
@@ -18,9 +16,17 @@ library(SnowballC)  # 詞幹提取
 library(topicmodels)  # 主題模型
 library(qdap)  # 文本量化分析
 
-library(e1071)  # 概率統計數據分析工具包
+library(e1071)  # 概率統計數據分析工具包，包括 Bayes 和 SVM
 library(rpart)  # 分类/回归/生存树工具包
 library(maptree)  # 决策树可视化工具包
 library(ipred)  # bagging工具包
 library(mboost)  # boosting工具包
 library(randomForest)  # 随机森林工具包
+library(recommenderlab)  # 推薦系統工具包
+library(nnet)  # 神經網絡工具集
+
+library(lattice)  # 繪製二維點圖
+library(ggplot2)  # 綜合性可視化工具集
+
+library(fpp2)  # Forecast預測工具集
+library(urca)  # Forecast單位根檢驗工具集
