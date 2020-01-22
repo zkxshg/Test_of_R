@@ -1,7 +1,7 @@
 # 读入包
 library(fpp2)
 # 读入数据
-cq_dmj <- read.csv(file="D:/Games/cigar/三明預測報告/3 第三階段：軟件開發/6 销售预测报告/data/sample/城区_邓敏婕_合计.csv", header=TRUE, sep=",")
+cq_dmj <- read.csv(file="合计.csv", header=TRUE, sep=",")
 
 # 线性插值处理缺失值
 cq_dmj$Total[cq_dmj$Total==0]<-NA
@@ -14,7 +14,7 @@ cq_dmj$Total <- na.interp(cq_dmj$Total)
 cq_dmj_Ts <- ts(cq_dmj$Total, start=c(2017, 1), frequency=52)
 
 # 读入利群销售数据
-cq_dmj_lqx <- read.csv(file="D:/Games/cigar/三明預測報告/3 第三階段：軟件開發/6 销售预测报告/data/sample/城区_邓敏婕_利群新.csv", header=TRUE, sep=",")
+cq_dmj_lqx <- read.csv(file="利群新.csv", header=TRUE, sep=",")
 # 线性插值处理缺失值
 cq_dmj_lqx$LiqunNew[cq_dmj_lqx$LiqunNew==0]<-NA
 cq_dmj_lqx$LiqunNew <- na.interp(cq_dmj_lqx$LiqunNew)
