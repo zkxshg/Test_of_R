@@ -1,3 +1,18 @@
+# Data:
+# https://www.kaggle.com/ashishvaya/recommendation-engine
+# Package:
+# https://www.rdocumentation.org/packages/recommenderlab/versions/0.2-5
+
+# POJ:
+# https://zh.wikipedia.org/wiki/%E5%9C%A8%E7%BA%BF%E8%AF%84%E6%B5%8B%E7%B3%BB%E7%BB%9F#cite_note-6
+
+# According:
+# Skiena, S., & Revilla, M. (2003). Programming challenges. Springer-Verlag.
+# Francisco, R. E. and A. P. Ambrosio (2015). Mining an Online Judge System to Support Introductory Computer Programming Teaching. EDM (Workshops).
+# Michael Hahsler (2016). recommenderlab: A Framework for Developing and Testing Recommendation Algorithms, R package.
+# Koren, Y., et al. (2009). "Matrix factorization techniques for recommender systems." Computer(8): 30-37.
+# Yera Toledo, R., et al. (2018). A recommender system for programming online judges using fuzzy information modeling. 
+# + Informatics, Multidisciplinary Digital Publishing Institute.
 
 library(recommenderlab)
 library(ggplot2)
