@@ -1,3 +1,5 @@
+# 叶明亮, "应用时间序列组合预测方法的卷烟销售预测模型," 福建电脑, vol. 36, no. 02, pp. 63-67, 2020.
+
 # !可用模型函数：1-均值法:meanF(p,d);2-季节朴素法:snaiveF(p,d);3-时间序列分解:stlDeco(p);
 # +4-ETS指数平滑法:etsF(p,d);5-季节ARIMA法:sarimaF(p,d);6-多季节STL分解预测:mstlF(p,d);
 # +7-多季节动态谐波回归:mdhArimaF(p,d);8-TBATS模型:tbatsF(p,d);9-神经网络自回归:nnarF(p,d);
