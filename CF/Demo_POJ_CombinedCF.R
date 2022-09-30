@@ -2,6 +2,8 @@
 # https://www.kaggle.com/ashishvaya/recommendation-engine
 # Package:
 # https://www.rdocumentation.org/packages/recommenderlab/versions/0.2-5
+# Publish:
+# [1]	周成 and 王可可, "在线信息学竞赛训练的组合推荐机制研究," 福建电脑, vol. 37, no. 06, pp. 135-140, 2021.
 
 # POJ:
 # https://zh.wikipedia.org/wiki/%E5%9C%A8%E7%BA%BF%E8%AF%84%E6%B5%8B%E7%B3%BB%E7%BB%9F#cite_note-6
