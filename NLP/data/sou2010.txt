@@ -1,0 +1,703 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-1FLfhli3wF1EqKy4+DmsB7My96mQ71ZtDpkmg/2A8RP+5uDgJ0zAT8sRDwSG0p75xQjd9aMIVb58gpjhC//ngA==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-dcca19dafecb17dea634d2f083dc7f9f.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-ZFdWUOYcxKYr8uJmPcKEHoLS63jtDv1C4ScOuU/d8TlsFZRzgBPt77fAiehMzf99Q6+HhyCdU4SJ2EE132ticA==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-f8bef71d7645480c32b0caea813bc4d6.css" />
+  
+  
+  <link crossorigin="anonymous" media="all" integrity="sha512-tPCUhYY8wBgrMwUNaQ8DB3AT+D8tW2loxVJmaVbG0slMwordccNe6P+6/F+MRXTxLizC4wU2hCdBpV85fOQwsw==" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-87d92779183721b2a5e550a596846adf.css" />
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>data/sou2010.txt at master · datameister66/data · GitHub</title>
+    <meta name="description" content="Contribute to datameister66/data development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/9370287?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="datameister66/data" /><meta property="og:url" content="https://github.com/datameister66/data" /><meta property="og:description" content="Contribute to datameister66/data development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  
+  <meta name="pjax-timeout" content="1000">
+  
+  <meta name="request-id" content="3574:124E:4DA2C9:903D10:5BA256D9" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="3574:124E:4DA2C9:903D10:5BA256D9" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="ODk3ZWQyNGEzMGFiOWEwMmUyNmJjYzEwMjEzMmYzNmYwZWQwMGRhOTg1YWRjMjkwZjk5YmQwNDkxYTE5YTFmZnx7InJlbW90ZV9hZGRyZXNzIjoiMTQwLjExNy4xOTcuMjEiLCJyZXF1ZXN0X2lkIjoiMzU3NDoxMjRFOjREQTJDOTo5MDNEMTA6NUJBMjU2RDkiLCJ0aW1lc3RhbXAiOjE1MzczNjU3MjMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+
+    <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,QUOTE_MARKDOWN">
+
+  <meta name="html-safe-nonce" content="8a22e83d7bcb9dbf67d5bee9f2acf3422a79b95b">
+
+  <meta http-equiv="x-pjax-version" content="5041d2b4226f74c10ca33258968e99a8">
+  
+
+      <link href="https://github.com/datameister66/data/commits/master.atom" rel="alternate" title="Recent Commits to data:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/datameister66/data git https://github.com/datameister66/data.git">
+
+  <meta name="octolytics-dimension-user_id" content="9370287" /><meta name="octolytics-dimension-user_login" content="datameister66" /><meta name="octolytics-dimension-repository_id" content="80362819" /><meta name="octolytics-dimension-repository_nwo" content="datameister66/data" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="80362819" /><meta name="octolytics-dimension-repository_network_root_nwo" content="datameister66/data" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/datameister66/data/blob/master/sou2010.txt" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+
+
+  <header class="Header header-logged-out  position-relative f4 py-3" role="banner" >
+    <div class="container-lg d-flex px-3">
+      <div class="d-flex flex-justify-between flex-items-center">
+        <a class="header-logo-invertocat my-0" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark; experiment:site_header_dropdowns; group:control">
+          <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+        </a>
+
+      </div>
+
+      <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+          <nav class="mt-0">
+            <ul class="d-flex list-style-none">
+                <li class="ml-2">
+                  <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:features; experiment:site_header_dropdowns; group:control" data-selected-links="/features /features/project-management /features/code-review /features/project-management /features/integrations /features" href="/features">
+                    Features
+</a>                </li>
+                <li class="ml-4">
+                  <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:business; experiment:site_header_dropdowns; group:control" data-selected-links="/business /business/security /business/customers /business" href="/business">
+                    Business
+</a>                </li>
+
+                <li class="ml-4">
+                  <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:explore; experiment:site_header_dropdowns; group:control" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                    Explore
+</a>                </li>
+
+                <li class="ml-4">
+                      <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:marketplace; experiment:site_header_dropdowns; group:control" data-selected-links=" /marketplace" href="/marketplace">
+                        Marketplace
+</a>                </li>
+                <li class="ml-4">
+                  <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:pricing; experiment:site_header_dropdowns; group:control" data-selected-links="/pricing /pricing/developer /pricing/team /pricing/business-hosted /pricing/business-enterprise /pricing" href="/pricing">
+                    Pricing
+</a>                </li>
+            </ul>
+          </nav>
+
+        <div class="d-flex">
+            <div class="d-lg-flex flex-items-center mr-3">
+              <div class="header-search scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="80362819" data-scoped-search-url="/datameister66/data/search" data-unscoped-search-url="/search" action="/datameister66/data/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=eq9E0UR2fOFcA40Hz8xrsvRbO7Cwl38rDg4axDW4blsIBIj/IGL0WVu1UM7itGet39RSghqy5Mkw+/Hka72Vlg=="
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://assets-cdn.github.com/images/search-shortcut-hint.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              <ul class="d-none js-jump-to-suggestions-template-container">
+                <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item" role="option">
+                  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center p-2 jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open" href="">
+                    <div class="jump-to-octicon js-jump-to-octicon mr-2 text-center d-none">
+                      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+                      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+                      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+                    </div>
+
+                    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+                    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+                    </div>
+
+                    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+                      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+                        In this repository
+                      </span>
+                      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+                        All GitHub
+                      </span>
+                      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+
+                    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+                      Jump to
+                      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+              <ul class="d-none js-jump-to-no-results-template-container">
+                <li class="d-flex flex-justify-center flex-items-center p-3 f5 d-none">
+                  <span class="text-gray">No suggested jump to results</span>
+                </li>
+              </ul>
+
+              <ul id="jump-to-results" role="listbox" class="js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container" >
+                <li class="d-flex flex-justify-center flex-items-center p-0 f5">
+                  <img src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+                </li>
+              </ul>
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+            </div>
+
+          <span class="d-inline-block">
+              <div class="HeaderNavlink px-0 py-2 m-0">
+                <a class="text-bold text-white no-underline" href="/login?return_to=%2Fdatameister66%2Fdata%2Fblob%2Fmaster%2Fsou2010.txt" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in; experiment:site_header_dropdowns; group:control">Sign in</a>
+                  <span class="text-gray">or</span>
+                  <a class="text-bold text-white no-underline" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up; experiment:site_header_dropdowns; group:control">Sign up</a>
+              </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+
+
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+      <a href="/login?return_to=%2Fdatameister66%2Fdata"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+    Watch
+  </a>
+  <a class="social-count" href="/datameister66/data/watchers"
+     aria-label="2 users are watching this repository">
+    2
+  </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fdatameister66%2Fdata"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/datameister66/data/stargazers"
+      aria-label="0 users starred this repository">
+      0
+    </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fdatameister66%2Fdata"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Fork
+      </a>
+
+    <a href="/datameister66/data/network/members" class="social-count"
+       aria-label="5 users forked this repository">
+      5
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/datameister66">datameister66</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/datameister66/data">data</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /datameister66/data" href="/datameister66/data">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /datameister66/data/issues" href="/datameister66/data/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">1</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /datameister66/data/pulls" href="/datameister66/data/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /datameister66/data/projects" href="/datameister66/data/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /datameister66/data/pulse" href="/datameister66/data/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/datameister66/data/blob/60e2589bdd2a5023d90249a842b98a6fcfcf871b/sou2010.txt">Permalink</a>
+
+  <!-- blob contrib key: blob_contributors:v21:b28b640950e9021f8f97a401645fdd2d -->
+
+      <div class="signup-prompt-bg rounded-1">
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+        <div class="position-relative">
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ei2bEHi/Dg0ACtCtq9IIQGe+KLLnIdhdo7NRdX6A4DFY4cMM5n5/R50gq3poZMhtUdvpNke/lQWmcMSPJWEUjg==" />
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+              Dismiss
+            </button>
+</form>          <h3 class="pt-2">Join GitHub today</h3>
+          <p class="col-6 mx-auto">GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.</p>
+          <a class="btn btn-primary" href="/join?source=prompt-blob-show" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up">Sign up</a>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="file-navigation">
+    
+<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
+      <i>Branch:</i>
+      <span class="js-select-button css-truncate-target">master</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/datameister66/data/blob/master/sou2010.txt"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div class="BtnGroup float-right">
+      <a href="/datameister66/data/find/master"
+            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+            data-pjax
+            data-hotkey="t">
+        Find file
+      </a>
+      <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+        Copy path
+      </clipboard-copy>
+    </div>
+    <div id="blob-path" class="breadcrumb">
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/datameister66/data"><span>data</span></a></span></span><span class="separator">/</span><strong class="final-path">sou2010.txt</strong>
+    </div>
+  </div>
+
+
+  
+  <div class="commit-tease">
+      <span class="float-right">
+        <a class="commit-tease-sha" href="/datameister66/data/commit/308adb40563eeea6406a38586631d095a7735448" data-pjax>
+          308adb4
+        </a>
+        <relative-time datetime="2017-02-07T12:45:52Z">Feb 7, 2017</relative-time>
+      </span>
+      <div>
+        <a rel="author" data-skip-pjax="true" data-hovercard-user-id="9370287" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/datameister66"><img class="avatar" src="https://avatars0.githubusercontent.com/u/9370287?s=40&amp;v=4" width="20" height="20" alt="@datameister66" /></a>
+        <a class="user-mention" rel="author" data-hovercard-user-id="9370287" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/datameister66">datameister66</a>
+          <a data-pjax="true" title="Add files via upload" class="message" href="/datameister66/data/commit/308adb40563eeea6406a38586631d095a7735448">Add files via upload</a>
+      </div>
+
+    <div class="commit-tease-contributors">
+      
+<details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+  <summary class="btn-link" aria-haspopup="dialog"  >
+    
+    <span><strong>1</strong> contributor</span>
+  </summary>
+  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <h3 class="Box-title">Users who have contributed to this file</h3>
+    </div>
+    
+        <ul class="list-style-none overflow-auto">
+            <li class="Box-row">
+              <a class="link-gray-dark no-underline" href="/datameister66">
+                <img class="avatar mr-2" alt="" src="https://avatars0.githubusercontent.com/u/9370287?s=40&amp;v=4" width="20" height="20" />
+                datameister66
+</a>            </li>
+        </ul>
+
+  </details-dialog>
+</details>
+      
+    </div>
+  </div>
+
+
+
+  <div class="file">
+    <div class="file-header">
+  <div class="file-actions">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/datameister66/data/raw/master/sou2010.txt">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/datameister66/data/blame/master/sou2010.txt">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/datameister66/data/commits/master/sou2010.txt">History</a>
+    </div>
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="https://desktop.github.com"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:windows">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+        </a>
+
+        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+          aria-label="You must be signed in to make or propose changes">
+          <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+        </button>
+        <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          aria-label="You must be signed in to make or propose changes">
+          <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+        </button>
+  </div>
+
+  <div class="file-info">
+      3 lines (2 sloc)
+      <span class="file-info-divider"></span>
+    42.6 KB
+  </div>
+</div>
+
+    
+
+  <div itemprop="text" class="blob-wrapper data type-text">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">&quot;x&quot;
+</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">&quot;1&quot; &quot;THE PRESIDENT: Madam Speaker, Vice President Biden, members of Congress, distinguished guests, and fellow Americans: Our Constitution declares that from time to time, the President shall give to Congress information about the state of our union. For 220 years, our leaders have fulfilled this duty. They&#39;ve done so during periods of prosperity and tranquility. And they&#39;ve done so in the midst of war and depression; at moments of great strife and great struggle. It&#39;s tempting to look back on these moments and assume that our progress was inevitable - that America was always destined to succeed. But when the Union was turned back at Bull Run, and the Allies first landed at Omaha Beach, victory was very much in doubt. When the market crashed on Black Tuesday, and civil rights marchers were beaten on Bloody Sunday, the future was anything but certain. These were the times that tested the courage of our convictions, and the strength of our union. And despite all our divisions and disagreements, our hesitations and our fears, America prevailed because we chose to move forward as one nation, as one people. Again, we are tested. And again, we must answer history&#39;s call. One year ago, I took office amid two wars, an economy rocked by a severe recession, a financial system on the verge of collapse, and a government deeply in debt. Experts from across the political spectrum warned that if we did not act, we might face a second depression. So we acted - immediately and aggressively. And one year later, the worst of the storm has passed. But the devastation remains. One in 10 Americans still cannot find work. Many businesses have shuttered. Home values have declined. Small towns and rural communities have been hit especially hard. And for those who&#39;d already known poverty, life has become that much harder. This recession has also compounded the burdens that America&#39;s families have been dealing with for decades - the burden of working harder and longer for less; of being unable to save enough to retire or help kids with college. So I know the anxieties that are out there right now. They&#39;re not new. These struggles are the reason I ran for President. These struggles are what I&#39;ve witnessed for years in places like Elkhart, Indiana; Galesburg, Illinois. I hear about them in the letters that I read each night. The toughest to read are those written by children - asking why they have to move from their home, asking when their mom or dad will be able to go back to work. For these Americans and so many others, change has not come fast enough. Some are frustrated; some are angry. They don&#39;t understand why it seems like bad behavior on Wall Street is rewarded, but hard work on Main Street isn&#39;t; or why Washington has been unable or unwilling to solve any of our problems. They&#39;re tired of the partisanship and the shouting and the pettiness. They know we can&#39;t afford it. Not now. So we face big and difficult challenges. And what the American people hope - what they deserve - is for all of us, Democrats and Republicans, to work through our differences; to overcome the numbing weight of our politics. For while the people who sent us here have different backgrounds, different stories, different beliefs, the anxieties they face are the same. The aspirations they hold are shared: a job that pays the bills; a chance to get ahead; most of all, the ability to give their children a better life. You know what else they share? They share a stubborn resilience in the face of adversity. After one of the most difficult years in our history, they remain busy building cars and teaching kids, starting businesses and going back to school. They&#39;re coaching Little League and helping their neighbors. One woman wrote to me and said, We are strained but hopeful, struggling but encouraged. It&#39;s because of this spirit - this great decency and great strength - that I have never been more hopeful about America&#39;s future than I am tonight. (Applause.) Despite our hardships, our union is strong. We do not give up. We do not quit. We do not allow fear or division to break our spirit. In this new decade, it&#39;s time the American people get a government that matches their decency; that embodies their strength. (Applause.) And tonight, tonight I&#39;d like to talk about how together we can deliver on that promise. It begins with our economy. Our most urgent task upon taking office was to shore up the same banks that helped cause this crisis. It was not easy to do. And if there&#39;s one thing that has unified Democrats and Republicans, and everybody in between, it&#39;s that we all hated the bank bailout. I hated it -- (applause.) I hated it. You hated it. It was about as popular as a root canal. (Laughter.) But when I ran for President, I promised I wouldn&#39;t just do what was popular - I would do what was necessary. And if we had allowed the meltdown of the financial system, unemployment might be double what it is today. More businesses would certainly have closed. More homes would have surely been lost. So I supported the last administration&#39;s efforts to create the financial rescue program. And when we took that program over, we made it more transparent and more accountable. And as a result, the markets are now stabilized, and we&#39;ve recovered most of the money we spent on the banks. (Applause.) Most but not all. To recover the rest, I&#39;ve proposed a fee on the biggest banks. (Applause.) Now, I know Wall Street isn&#39;t keen on this idea. But if these firms can afford to hand out big bonuses again, they can afford a modest fee to pay back the taxpayers who rescued them in their time of need. (Applause.) Now, as we stabilized the financial system, we also took steps to get our economy growing again, save as many jobs as possible, and help Americans who had become unemployed. That&#39;s why we extended or increased unemployment benefits for more than 18 million Americans; made health insurance 65 percent cheaper for families who get their coverage through COBRA; and passed 25 different tax cuts. Now, let me repeat: We cut taxes. We cut taxes for 95 percent of working families. (Applause.) We cut taxes for small businesses. We cut taxes for first-time homebuyers. We cut taxes for parents trying to care for their children. We cut taxes for 8 million Americans paying for college. (Applause.) I thought I&#39;d get some applause on that one. (Laughter and applause.) As a result, millions of Americans had more to spend on gas and food and other necessities, all of which helped businesses keep more workers. And we haven&#39;t raised income taxes by a single dime on a single person. Not a single dime. (Applause.) Because of the steps we took, there are about two million Americans working right now who would otherwise be unemployed. (Applause.) Two hundred thousand work in construction and clean energy; 300,000 are teachers and other education workers. Tens of thousands are cops, firefighters, correctional officers, first responders. (Applause.) And we&#39;re on track to add another one and a half million jobs to this total by the end of the year. The plan that has made all of this possible, from the tax cuts to the jobs, is the Recovery Act. (Applause.) That&#39;s right - the Recovery Act, also known as the stimulus bill. (Applause.) Economists on the left and the right say this bill has helped save jobs and avert disaster. But you don&#39;t have to take their word for it. Talk to the small business in Phoenix that will triple its workforce because of the Recovery Act. Talk to the window manufacturer in Philadelphia who said he used to be skeptical about the Recovery Act, until he had to add two more work shifts just because of the business it created. Talk to the single teacher raising two kids who was told by her principal in the last week of school that because of the Recovery Act, she wouldn&#39;t be laid off after all. There are stories like this all across America. And after two years of recession, the economy is growing again. Retirement funds have started to gain back some of their value. Businesses are beginning to invest again, and slowly some are starting to hire again. But I realize that for every success story, there are other stories, of men and women who wake up with the anguish of not knowing where their next paycheck will come from; who send out resumes week after week and hear nothing in response. That is why jobs must be our number-one focus in 2010, and that&#39;s why I&#39;m calling for a new jobs bill tonight. (Applause.) Now, the true engine of job creation in this country will always be America&#39;s businesses. (Applause.) But government can create the conditions necessary for businesses to expand and hire more workers. We should start where most new jobs do - in small businesses, companies that begin when -- (applause) -- companies that begin when an entrepreneur -- when an entrepreneur takes a chance on a dream, or a worker decides it&#39;s time she became her own boss. Through sheer grit and determination, these companies have weathered the recession and they&#39;re ready to grow. But when you talk to small businessowners in places like Allentown, Pennsylvania, or Elyria, Ohio, you find out that even though banks on Wall Street are lending again, they&#39;re mostly lending to bigger companies. Financing remains difficult for small businessowners across the country, even those that are making a profit. So tonight, I&#39;m proposing that we take $30 billion of the money Wall Street banks have repaid and use it to help community banks give small businesses the credit they need to stay afloat. (Applause.) I&#39;m also proposing a new small business tax credit - one that will go to over one million small businesses who hire new workers or raise wages. (Applause.) While we&#39;re at it, let&#39;s also eliminate all capital gains taxes on small business investment, and provide a tax incentive for all large businesses and all small businesses to invest in new plants and equipment. (Applause.) Next, we can put Americans to work today building the infrastructure of tomorrow. (Applause.) From the first railroads to the Interstate Highway System, our nation has always been built to compete. There&#39;s no reason Europe or China should have the fastest trains, or the new factories that manufacture clean energy products. Tomorrow, I&#39;ll visit Tampa, Florida, where workers will soon break ground on a new high-speed railroad funded by the Recovery Act. (Applause.) There are projects like that all across this country that will create jobs and help move our nation&#39;s goods, services, and information. (Applause.) We should put more Americans to work building clean energy facilities -- (applause) -- and give rebates to Americans who make their homes more energy-efficient, which supports clean energy jobs. (Applause.) And to encourage these and other businesses to stay within our borders, it is time to finally slash the tax breaks for companies that ship our jobs overseas, and give those tax breaks to companies that create jobs right here in the United States of America. (Applause.) Now, the House has passed a jobs bill that includes some of these steps. (Applause.) As the first order of business this year, I urge the Senate to do the same, and I know they will. (Applause.) They will. (Applause.) People are out of work. They&#39;re hurting. They need our help. And I want a jobs bill on my desk without delay. (Applause.) But the truth is, these steps won&#39;t make up for the seven million jobs that we&#39;ve lost over the last two years. The only way to move to full employment is to lay a new foundation for long-term economic growth, and finally address the problems that America&#39;s families have confronted for years. We can&#39;t afford another so-called economic expansion like the one from the last decade - what some call the lost decade - where jobs grew more slowly than during any prior expansion; where the income of the average American household declined while the cost of health care and tuition reached record highs; where prosperity was built on a housing bubble and financial speculation. From the day I took office, I&#39;ve been told that addressing our larger challenges is too ambitious; such an effort would be too contentious. I&#39;ve been told that our political system is too gridlocked, and that we should just put things on hold for a while. For those who make these claims, I have one simple question: How long should we wait? How long should America put its future on hold? (Applause.) You see, Washington has been telling us to wait for decades, even as the problems have grown worse. Meanwhile, China is not waiting to revamp its economy. Germany is not waiting. India is not waiting. These nations -- they&#39;re not standing still. These nations aren&#39;t playing for second place. They&#39;re putting more emphasis on math and science. They&#39;re rebuilding their infrastructure. They&#39;re making serious investments in clean energy because they want those jobs. Well, I do not accept second place for the United States of America. (Applause.) As hard as it may be, as uncomfortable and contentious as the debates may become, it&#39;s time to get serious about fixing the problems that are hampering our growth. Now, one place to start is serious financial reform. Look, I am not interested in punishing banks. I&#39;m interested in protecting our economy. A strong, healthy financial market makes it possible for businesses to access credit and create new jobs. It channels the savings of families into investments that raise incomes. But that can only happen if we guard against the same recklessness that nearly brought down our entire economy. We need to make sure consumers and middle-class families have the information they need to make financial decisions. (Applause.) We can&#39;t allow financial institutions, including those that take your deposits, to take risks that threaten the whole economy. Now, the House has already passed financial reform with many of these changes. (Applause.) And the lobbyists are trying to kill it. But we cannot let them win this fight. (Applause.) And if the bill that ends up on my desk does not meet the test of real reform, I will send it back until we get it right. We&#39;ve got to get it right. (Applause.) Next, we need to encourage American innovation. Last year, we made the largest investment in basic research funding in history - (applause) -- an investment that could lead to the world&#39;s cheapest solar cells or treatment that kills cancer cells but leaves healthy ones untouched. And no area is more ripe for such innovation than energy. You can see the results of last year&#39;s investments in clean energy - in the North Carolina company that will create 1,200 jobs nationwide helping to make advanced batteries; or in the California business that will put a thousand people to work making solar panels. But to create more of these clean energy jobs, we need more production, more efficiency, more incentives. And that means building a new generation of safe, clean nuclear power plants in this country. (Applause.) It means making tough decisions about opening new offshore areas for oil and gas development. (Applause.) It means continued investment in advanced biofuels and clean coal technologies. (Applause.) And, yes, it means passing a comprehensive energy and climate bill with incentives that will finally make clean energy the profitable kind of energy in America. (Applause.) I am grateful to the House for passing such a bill last year. (Applause.) And this year I&#39;m eager to help advance the bipartisan effort in the Senate. (Applause.) I know there have been questions about whether we can afford such changes in a tough economy. I know that there are those who disagree with the overwhelming scientific evidence on climate change. But here&#39;s the thing -- even if you doubt the evidence, providing incentives for energy-efficiency and clean energy are the right thing to do for our future - because the nation that leads the clean energy economy will be the nation that leads the global economy. And America must be that nation. (Applause.) Third, we need to export more of our goods. (Applause.) Because the more products we make and sell to other countries, the more jobs we support right here in America. (Applause.) So tonight, we set a new goal: We will double our exports over the next five years, an increase that will support two million jobs in America. (Applause.) To help meet this goal, we&#39;re launching a National Export Initiative that will help farmers and small businesses increase their exports, and reform export controls consistent with national security. (Applause.) We have to seek new markets aggressively, just as our competitors are. If America sits on the sidelines while other nations sign trade deals, we will lose the chance to create jobs on our shores. (Applause.) But realizing those benefits also means enforcing those agreements so our trading partners play by the rules. (Applause.) And that&#39;s why we&#39;ll continue to shape a Doha trade agreement that opens global markets, and why we will strengthen our trade relations in Asia and with key partners like South Korea and Panama and Colombia. (Applause.) Fourth, we need to invest in the skills and education of our people. (Applause.) Now, this year, we&#39;ve broken through the stalemate between left and right by launching a national competition to improve our schools. And the idea here is simple: Instead of rewarding failure, we only reward success. Instead of funding the status quo, we only invest in reform -- reform that raises student achievement; inspires students to excel in math and science; and turns around failing schools that steal the future of too many young Americans, from rural communities to the inner city. In the 21st century, the best anti-poverty program around is a world-class education. (Applause.) And in this country, the success of our children cannot depend more on where they live than on their potential. When we renew the Elementary and Secondary Education Act, we will work with Congress to expand these reforms to all 50 states. Still, in this economy, a high school diploma no longer guarantees a good job. That&#39;s why I urge the Senate to follow the House and pass a bill that will revitalize our community colleges, which are a career pathway to the children of so many working families. (Applause.) To make college more affordable, this bill will finally end the unwarranted taxpayer subsidies that go to banks for student loans. (Applause.) Instead, let&#39;s take that money and give families a $10,000 tax credit for four years of college and increase Pell Grants. (Applause.) And let&#39;s tell another one million students that when they graduate, they will be required to pay only 10 percent of their income on student loans, and all of their debt will be forgiven after 20 years - and forgiven after 10 years if they choose a career in public service, because in the United States of America, no one should go broke because they chose to go to college. (Applause.) And by the way, it&#39;s time for colleges and universities to get serious about cutting their own costs - (applause) -- because they, too, have a responsibility to help solve this problem. Now, the price of college tuition is just one of the burdens facing the middle class. That&#39;s why last year I asked Vice President Biden to chair a task force on middle-class families. That&#39;s why we&#39;re nearly doubling the child care tax credit, and making it easier to save for retirement by giving access to every worker a retirement account and expanding the tax credit for those who start a nest egg. That&#39;s why we&#39;re working to lift the value of a family&#39;s single largest investment - their home. The steps we took last year to shore up the housing market have allowed millions of Americans to take out new loans and save an average of $1,500 on mortgage payments. This year, we will step up refinancing so that homeowners can move into more affordable mortgages. (Applause.) And it is precisely to relieve the burden on middle-class families that we still need health insurance reform. (Applause.) Yes, we do. (Applause.) Now, let&#39;s clear a few things up. (Laughter.) I didn&#39;t choose to tackle this issue to get some legislative victory under my belt. And by now it should be fairly obvious that I didn&#39;t take on health care because it was good politics. (Laughter.) I took on health care because of the stories I&#39;ve heard from Americans with preexisting conditions whose lives depend on getting coverage; patients who&#39;ve been denied coverage; families - even those with insurance - who are just one illness away from financial ruin. After nearly a century of trying -- Democratic administrations, Republican administrations -- we are closer than ever to bringing more security to the lives of so many Americans. The approach we&#39;ve taken would protect every American from the worst practices of the insurance industry. It would give small businesses and uninsured Americans a chance to choose an affordable health care plan in a competitive market. It would require every insurance plan to cover preventive care. And by the way, I want to acknowledge our First Lady, Michelle Obama, who this year is creating a national movement to tackle the epidemic of childhood obesity and make kids healthier. (Applause.) Thank you. She gets embarrassed. (Laughter.) Our approach would preserve the right of Americans who have insurance to keep their doctor and their plan. It would reduce costs and premiums for millions of families and businesses. And according to the Congressional Budget Office - the independent organization that both parties have cited as the official scorekeeper for Congress - our approach would bring down the deficit by as much as $1 trillion over the next two decades. (Applause.) Still, this is a complex issue, and the longer it was debated, the more skeptical people became. I take my share of the blame for not explaining it more clearly to the American people. And I know that with all the lobbying and horse-trading, the process left most Americans wondering, What&#39;s in it for me? But I also know this problem is not going away. By the time I&#39;m finished speaking tonight, more Americans will have lost their health insurance. Millions will lose it this year. Our deficit will grow. Premiums will go up. Patients will be denied the care they need. Small business owners will continue to drop coverage altogether. I will not walk away from these Americans, and neither should the people in this chamber. (Applause.) So, as temperatures cool, I want everyone to take another look at the plan we&#39;ve proposed. There&#39;s a reason why many doctors, nurses, and health care experts who know our system best consider this approach a vast improvement over the status quo. But if anyone from either party has a better approach that will bring down premiums, bring down the deficit, cover the uninsured, strengthen Medicare for seniors, and stop insurance company abuses, let me know. (Applause.) Let me know. Let me know. (Applause.) I&#39;m eager to see it. Here&#39;s what I ask Congress, though: Don&#39;t walk away from reform. Not now. Not when we are so close. Let us find a way to come together and finish the job for the American people. (Applause.) Let&#39;s get it done. Let&#39;s get it done. (Applause.) Now, even as health care reform would reduce our deficit, it&#39;s not enough to dig us out of a massive fiscal hole in which we find ourselves. It&#39;s a challenge that makes all others that much harder to solve, and one that&#39;s been subject to a lot of political posturing. So let me start the discussion of government spending by setting the record straight. At the beginning of the last decade, the year 2000, America had a budget surplus of over $200 billion. (Applause.) By the time I took office, we had a one-year deficit of over $1 trillion and projected deficits of $8 trillion over the next decade. Most of this was the result of not paying for two wars, two tax cuts, and an expensive prescription drug program. On top of that, the effects of the recession put a $3 trillion hole in our budget. All this was before I walked in the door. (Laughter and applause.) Now -- just stating the facts. Now, if we had taken office in ordinary times, I would have liked nothing more than to start bringing down the deficit. But we took office amid a crisis. And our efforts to prevent a second depression have added another $1 trillion to our national debt. That, too, is a fact. I&#39;m absolutely convinced that was the right thing to do. But families across the country are tightening their belts and making tough decisions. The federal government should do the same. (Applause.) So tonight, I&#39;m proposing specific steps to pay for the trillion dollars that it took to rescue the economy last year. Starting in 2011, we are prepared to freeze government spending for three years. (Applause.) Spending related to our national security, Medicare, Medicaid, and Social Security will not be affected. But all other discretionary government programs will. Like any cash-strapped family, we will work within a budget to invest in what we need and sacrifice what we don&#39;t. And if I have to enforce this discipline by veto, I will. (Applause.) We will continue to go through the budget, line by line, page by page, to eliminate programs that we can&#39;t afford and don&#39;t work. We&#39;ve already identified $20 billion in savings for next year. To help working families, we&#39;ll extend our middle-class tax cuts. But at a time of record deficits, we will not continue tax cuts for oil companies, for investment fund managers, and for those making over $250,000 a year. We just can&#39;t afford it. (Applause.) Now, even after paying for what we spent on my watch, we&#39;ll still face the massive deficit we had when I took office. More importantly, the cost of Medicare, Medicaid, and Social Security will continue to skyrocket. That&#39;s why I&#39;ve called for a bipartisan fiscal commission, modeled on a proposal by Republican Judd Gregg and Democrat Kent Conrad. (Applause.) This can&#39;t be one of those Washington gimmicks that lets us pretend we solved a problem. The commission will have to provide a specific set of solutions by a certain deadline. Now, yesterday, the Senate blocked a bill that would have created this commission. So I&#39;ll issue an executive order that will allow us to go forward, because I refuse to pass this problem on to another generation of Americans. (Applause.) And when the vote comes tomorrow, the Senate should restore the pay-as-you-go law that was a big reason for why we had record surpluses in the 1990s. (Applause.) Now, I know that some in my own party will argue that we can&#39;t address the deficit or freeze government spending when so many are still hurting. And I agree -- which is why this freeze won&#39;t take effect until next year -- (laughter) -- when the economy is stronger. That&#39;s how budgeting works. (Laughter and applause.) But understand - understand if we don&#39;t take meaningful steps to rein in our debt, it could damage our markets, increase the cost of borrowing, and jeopardize our recovery - all of which would have an even worse effect on our job growth and family incomes. From some on the right, I expect we&#39;ll hear a different argument - that if we just make fewer investments in our people, extend tax cuts including those for the wealthier Americans, eliminate more regulations, maintain the status quo on health care, our deficits will go away. The problem is that&#39;s what we did for eight years. (Applause.) That&#39;s what helped us into this crisis. It&#39;s what helped lead to these deficits. We can&#39;t do it again. Rather than fight the same tired battles that have dominated Washington for decades, it&#39;s time to try something new. Let&#39;s invest in our people without leaving them a mountain of debt. Let&#39;s meet our responsibility to the citizens who sent us here. Let&#39;s try common sense. (Laughter.) A novel concept. To do that, we have to recognize that we face more than a deficit of dollars right now. We face a deficit of trust - deep and corrosive doubts about how Washington works that have been growing for years. To close that credibility gap we have to take action on both ends of Pennsylvania Avenue -- to end the outsized influence of lobbyists; to do our work openly; to give our people the government they deserve. (Applause.) That&#39;s what I came to Washington to do. That&#39;s why - for the first time in history - my administration posts on our White House visitors online. That&#39;s why we&#39;ve excluded lobbyists from policymaking jobs, or seats on federal boards and commissions. But we can&#39;t stop there. It&#39;s time to require lobbyists to disclose each contact they make on behalf of a client with my administration or with Congress. It&#39;s time to put strict limits on the contributions that lobbyists give to candidates for federal office. With all due deference to separation of powers, last week the Supreme Court reversed a century of law that I believe will open the floodgates for special interests - including foreign corporations - to spend without limit in our elections. (Applause.) I don&#39;t think American elections should be bankrolled by America&#39;s most powerful interests, or worse, by foreign entities. (Applause.) They should be decided by the American people. And I&#39;d urge Democrats and Republicans to pass a bill that helps to correct some of these problems. I&#39;m also calling on Congress to continue down the path of earmark reform. Applause.) Democrats and Republicans. (Applause.) Democrats and Republicans. You&#39;ve trimmed some of this spending, you&#39;ve embraced some meaningful change. But restoring the public trust demands more. For example, some members of Congress post some earmark requests online. (Applause.) Tonight, I&#39;m calling on Congress to publish all earmark requests on a single Web site before there&#39;s a vote, so that the American people can see how their money is being spent. (Applause.) Of course, none of these reforms will even happen if we don&#39;t also reform how we work with one another. Now, I&#39;m not nave. I never thought that the mere fact of my election would usher in peace and harmony -- (laughter) -- and some post-partisan era. I knew that both parties have fed divisions that are deeply entrenched. And on some issues, there are simply philosophical differences that will always cause us to part ways. These disagreements, about the role of government in our lives, about our national priorities and our national security, they&#39;ve been taking place for over 200 years. They&#39;re the very essence of our democracy. But what frustrates the American people is a Washington where every day is Election Day. We can&#39;t wage a perpetual campaign where the only goal is to see who can get the most embarrassing headlines about the other side - a belief that if you lose, I win. Neither party should delay or obstruct every single bill just because they can. The confirmation of -- (applause) -- I&#39;m speaking to both parties now. The confirmation of well-qualified public servants shouldn&#39;t be held hostage to the pet projects or grudges of a few individual senators. (Applause.) Washington may think that saying anything about the other side, no matter how false, no matter how malicious, is just part of the game. But it&#39;s precisely such politics that has stopped either party from helping the American people. Worse yet, it&#39;s sowing further division among our citizens, further distrust in our government. So, no, I will not give up on trying to change the tone of our politics. I know it&#39;s an election year. And after last week, it&#39;s clear that campaign fever has come even earlier than usual. But we still need to govern. To Democrats, I would remind you that we still have the largest majority in decades, and the people expect us to solve problems, not run for the hills. (Applause.) And if the Republican leadership is going to insist that 60 votes in the Senate are required to do any business at all in this town -- a supermajority -- then the responsibility to govern is now yours as well. (Applause.) Just saying no to everything may be good short-term politics, but it&#39;s not leadership. We were sent here to serve our citizens, not our ambitions. (Applause.) So let&#39;s show the American people that we can do it together. (Applause.) This week, I&#39;ll be addressing a meeting of the House Republicans. I&#39;d like to begin monthly meetings with both Democratic and Republican leadership. I know you can&#39;t wait. (Laughter.) Throughout our history, no issue has united this country more than our security. Sadly, some of the unity we felt after 9/11 has dissipated. We can argue all we want about who&#39;s to blame for this, but I&#39;m not interested in re-litigating the past. I know that all of us love this country. All of us are committed to its defense. So let&#39;s put aside the schoolyard taunts about who&#39;s tough. Let&#39;s reject the false choice between protecting our people and upholding our values. Let&#39;s leave behind the fear and division, and do what it takes to defend our nation and forge a more hopeful future -- for America and for the world. (Applause.) That&#39;s the work we began last year. Since the day I took office, we&#39;ve renewed our focus on the terrorists who threaten our nation. We&#39;ve made substantial investments in our homeland security and disrupted plots that threatened to take American lives. We are filling unacceptable gaps revealed by the failed Christmas attack, with better airline security and swifter action on our intelligence. We&#39;ve prohibited torture and strengthened partnerships from the Pacific to South Asia to the Arabian Peninsula. And in the last year, hundreds of al Qaeda&#39;s fighters and affiliates, including many senior leaders, have been captured or killed -- far more than in 2008. And in Afghanistan, we&#39;re increasing our troops and training Afghan security forces so they can begin to take the lead in July of 2011, and our troops can begin to come home. (Applause.) We will reward good governance, work to reduce corruption, and support the rights of all Afghans -- men and women alike. (Applause.) We&#39;re joined by allies and partners who have increased their own commitments, and who will come together tomorrow in London to reaffirm our common purpose. There will be difficult days ahead. But I am absolutely confident we will succeed. As we take the fight to al Qaeda, we are responsibly leaving Iraq to its people. As a candidate, I promised that I would end this war, and that is what I am doing as President. We will have all of our combat troops out of Iraq by the end of this August. (Applause.) We will support the Iraqi government -- we will support the Iraqi government as they hold elections, and we will continue to partner with the Iraqi people to promote regional peace and prosperity. But make no mistake: This war is ending, and all of our troops are coming home. (Applause.) Tonight, all of our men and women in uniform -- in Iraq, in Afghanistan, and around the world - they have to know that we -- that they have our respect, our gratitude, our full support. And just as they must have the resources they need in war, we all have a responsibility to support them when they come home. (Applause.) That&#39;s why we made the largest increase in investments for veterans in decades -- last year. (Applause.) That&#39;s why we&#39;re building a 21st century VA. And that&#39;s why Michelle has joined with Jill Biden to forge a national commitment to support military families. (Applause.) Now, even as we prosecute two wars, we&#39;re also confronting perhaps the greatest danger to the American people - the threat of nuclear weapons. I&#39;ve embraced the vision of John F. Kennedy and Ronald Reagan through a strategy that reverses the spread of these weapons and seeks a world without them. To reduce our stockpiles and launchers, while ensuring our deterrent, the United States and Russia are completing negotiations on the farthest-reaching arms control treaty in nearly two decades. (Applause.) And at April&#39;s Nuclear Security Summit, we will bring 44 nations together here in Washington, D.C. behind a clear goal: securing all vulnerable nuclear materials around the world in four years, so that they never fall into the hands of terrorists. (Applause.) Now, these diplomatic efforts have also strengthened our hand in dealing with those nations that insist on violating international agreements in pursuit of nuclear weapons. That&#39;s why North Korea now faces increased isolation, and stronger sanctions - sanctions that are being vigorously enforced. That&#39;s why the international community is more united, and the Islamic Republic of Iran is more isolated. And as Iran&#39;s leaders continue to ignore their obligations, there should be no doubt: They, too, will face growing consequences. That is a promise. (Applause.) That&#39;s the leadership that we are providing - engagement that advances the common security and prosperity of all people. We&#39;re working through the G20 to sustain a lasting global recovery. We&#39;re working with Muslim communities around the world to promote science and education and innovation. We have gone from a bystander to a leader in the fight against climate change. We&#39;re helping developing countries to feed themselves, and continuing the fight against HIV/AIDS. And we are launching a new initiative that will give us the capacity to respond faster and more effectively to bioterrorism or an infectious disease - a plan that will counter threats at home and strengthen public health abroad. As we have for over 60 years, America takes these actions because our destiny is connected to those beyond our shores. But we also do it because it is right. That&#39;s why, as we meet here tonight, over 10,000 Americans are working with many nations to help the people of Haiti recover and rebuild. (Applause.) That&#39;s why we stand with the girl who yearns to go to school in Afghanistan; why we support the human rights of the women marching through the streets of Iran; why we advocate for the young man denied a job by corruption in Guinea. For America must always stand on the side of freedom and human dignity. (Applause.) Always. (Applause.) Abroad, America&#39;s greatest source of strength has always been our ideals. The same is true at home. We find unity in our incredible diversity, drawing on the promise enshrined in our Constitution: the notion that we&#39;re all created equal; that no matter who you are or what you look like, if you abide by the law you should be protected by it; if you adhere to our common values you should be treated no different than anyone else. We must continually renew this promise. My administration has a Civil Rights Division that is once again prosecuting civil rights violations and employment discrimination. (Applause.) We finally strengthened our laws to protect against crimes driven by hate. (Applause.) This year, I will work with Congress and our military to finally repeal the law that denies gay Americans the right to serve the country they love because of who they are. (Applause.) It&#39;s the right thing to do. (Applause.) We&#39;re going to crack down on violations of equal pay laws - so that women get equal pay for an equal day&#39;s work. (Applause.) And we should continue the work of fixing our broken immigration system - to secure our borders and enforce our laws, and ensure that everyone who plays by the rules can contribute to our economy and enrich our nation. (Applause.) In the end, it&#39;s our ideals, our values that built America -- values that allowed us to forge a nation made up of immigrants from every corner of the globe; values that drive our citizens still. Every day, Americans meet their responsibilities to their families and their employers. Time and again, they lend a hand to their neighbors and give back to their country. They take pride in their labor, and are generous in spirit. These aren&#39;t Republican values or Democratic values that they&#39;re living by; business values or labor values. They&#39;re American values. Unfortunately, too many of our citizens have lost faith that our biggest institutions - our corporations, our media, and, yes, our government - still reflect these same values. Each of these institutions are full of honorable men and women doing important work that helps our country prosper. But each time a CEO rewards himself for failure, or a banker puts the rest of us at risk for his own selfish gain, people&#39;s doubts grow. Each time lobbyists game the system or politicians tear each other down instead of lifting this country up, we lose faith. The more that TV pundits reduce serious debates to silly arguments, big issues into sound bites, our citizens turn away. No wonder there&#39;s so much cynicism out there. No wonder there&#39;s so much disappointment. I campaigned on the promise of change - change we can believe in, the slogan went. And right now, I know there are many Americans who aren&#39;t sure if they still believe we can change - or that I can deliver it. But remember this - I never suggested that change would be easy, or that I could do it alone. Democracy in a nation of 300 million people can be noisy and messy and complicated. And when you try to do big things and make big changes, it stirs passions and controversy. That&#39;s just how it is. Those of us in public office can respond to this reality by playing it safe and avoid telling hard truths and pointing fingers. We can do what&#39;s necessary to keep our poll numbers high, and get through the next election instead of doing what&#39;s best for the next generation. But I also know this: If people had made that decision 50 years ago, or 100 years ago, or 200 years ago, we wouldn&#39;t be here tonight. The only reason we are here is because generations of Americans were unafraid to do what was hard; to do what was needed even when success was uncertain; to do what it took to keep the dream of this nation alive for their children and their grandchildren. Our administration has had some political setbacks this year, and some of them were deserved. But I wake up every day knowing that they are nothing compared to the setbacks that families all across this country have faced this year. And what keeps me going - what keeps me fighting - is that despite all these setbacks, that spirit of determination and optimism, that fundamental decency that has always been at the core of the American people, that lives on. It lives on in the struggling small business owner who wrote to me of his company, None of us, he said, are willing to consider, even slightly, that we might fail. It lives on in the woman who said that even though she and her neighbors have felt the pain of recession, We are strong.  We are resilient.  We are American. It lives on in the 8-year-old boy in Louisiana, who just sent me his allowance and asked if I would give it to the people of Haiti. And it lives on in all the Americans who&#39;ve dropped everything to go someplace they&#39;ve never been and pull people they&#39;ve never known from the rubble, prompting chants of U.S.A.! U.S.A.!  U.S.A! when another life was saved. The spirit that has sustained this nation for more than two centuries lives on in you, its people. We have finished a difficult year. We have come through a difficult decade. But a new year has come. A new decade stretches before us. We don&#39;t quit. I don&#39;t quit. (Applause.) Let&#39;s seize this moment -- to start anew, to carry the dream forward, and to strengthen our union once more. (Applause.) Thank you. God bless you. And God bless the United States of America. (Applause.)&quot;
+</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/datameister66/data/blame/60e2589bdd2a5023d90249a842b98a6fcfcf871b/sou2010.txt">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/datameister66/data/issues/new">Open new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+  </div>
+
+  </div>
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+        
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.15798s from unicorn-586f9f588d-kklwj">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon mr-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-1MY1bubPSeBGfi8bHYSAfH6C1/OTage7QZMvZi9yaM/WeRmbfDB6pUtIBNj0pC86WGSP0oCkH1mhrvk0JBwiTA==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-483159eaf578df95d9cafe819719d9e5.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-qfUyw5LpNPTPv/9yViM2A7A4aveGNTGoub9QL3/+8d0v2MoqXYimROvZCbTrY5R71lHnENoE7c8m+G1OhLsG/Q==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-5cb13afb52d05fe3d7a4f79a51a6b3c8.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark" open>
+    <summary aria-haspopup="dialog" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
