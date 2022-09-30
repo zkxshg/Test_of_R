@@ -1,3 +1,5 @@
+# 王立荣, "超启发式组合时间序列预报模型," 福建电脑, vol. 36, no. 08, pp. 27-32, 2020.
+
 library(fpp2)
 library(tabuSearch)
 
